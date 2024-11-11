@@ -41,6 +41,8 @@ The app interacts with the Ethereum blockchain using Web3.js for JavaScript inte
 
 ### Connecting Wallet
 
+<img src="interface/posts.png" width="200"/>
+
 When users visit the app, they will be prompted to connect their MetaMask wallet. Once connected, the app will display the user's wallet address and allow them to interact with the smart contract. This ensures that only the user with a specific Ethereum wallet can post, like, or dislike posts.
 
 Steps to connect the wallet:
@@ -64,6 +66,8 @@ Steps to create a post:
 3. The post is sent to the Ethereum network, and the content is displayed in the "Posts" section.
 
 ### Liking and Disliking Posts
+
+<img src="interface/feed.png" width="200"/>
 
 Users can interact with posts by liking or disliking them. Every time a user clicks **Like** or **Dislike**, the blockchain is updated with the new like/dislike count for that specific post. This ensures that all interactions are recorded and visible to anyone using the platform.
 
