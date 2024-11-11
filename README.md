@@ -13,10 +13,6 @@
   - [Liking and Disliking Posts](#liking-and-disliking-posts)
   - [Viewing Posts](#viewing-posts)
 - [Smart Contract Architecture](#smart-contract-architecture)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Overview
 
