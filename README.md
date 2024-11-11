@@ -1,7 +1,3 @@
-Here is the updated **README** for your **Mini Twitter** DApp with the changes you requested included:
-
----
-
 # Mini Twitter - A Decentralized Social Media Platform
 
 **Mini Twitter** is a simple decentralized social media application built on the Ethereum blockchain. The application allows users to post, like, and dislike content, all while ensuring data integrity and transparency through blockchain technology. By leveraging Web3.js and MetaMask, **Mini Twitter** offers a decentralized experience where users have control over their posts and interactions.
